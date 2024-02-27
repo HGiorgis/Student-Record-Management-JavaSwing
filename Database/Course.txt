@@ -1,0 +1,12 @@
+1,Ugr/25123/14,Java,Digital Logic Design,Economics1,Ugr/25123/14,Java,Digital Logic Design,Economics1,UGR/241242/14,Fundamental of Software Engineering,CyberSecurity,Computer Architecture
+1,Ugr/25123/14UGR/25123/14,Fundamental of Software Engineering,CyberSecurity,Computer Architecture
+2,UGR/25123/14,Fundamental of Software Engineering,CyberSecurity,Computer Architecture
+3,UGR/241242/14,Fundamental of Software Engineering,Java,Computer Architecture
+4,UGR/25704/14,Fundamental of Software Engineering,Java,Data Science
+5,UGR/26243/14,Java,CyberSecurity,Computer Architecture
+6,UGR/26127/14,Database,Java,Economics
+7,UGR/25122/14,Database,CyberSecurity,Data Science
+8,UGR/26127/14,Java,Digital Logic Design,Economics
+9,UGR/1234/14,Database,CyberSecurity,Data Science
+10,UGR/1/14,Fundamental of Software Engineering,Java,Data Science
+11,Ugr/25123/14UGR/25123/14,Database,Digital Logic Design,Computer Architecture

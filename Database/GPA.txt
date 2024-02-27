@@ -1,0 +1,9 @@
+UGR/12313/14,Fundamental of Software Engineering,Java,Data Science,2.47Ugr/25123/14UGR/25123/14,Fundamental of Software Engineering,CyberSecurity,Computer Architecture,1.00
+UGR/25123/14,Fundamental of Software Engineering,CyberSecurity,Computer Architecture,1.00
+Ugr/25123/14UGR/25123/14,Fundamental of Software Engineering,CyberSecurity,Computer Architecture,2.00
+UGR/241242/14,Fundamental of Software Engineering,Java,Computer Architecture,4.00
+UGR/25122/14,Database,CyberSecurity,Data Science,2.67
+UGR/25704/14,Fundamental of Software Engineering,Java,Data Science,3.77
+UGR/1234/14,Database,CyberSecurity,Data Science,2.67
+UGR/1/14,Fundamental of Software Engineering,Java,Data Science,2.33
+UGR/26243/14,Java,CyberSecurity,Computer Architecture,4.00

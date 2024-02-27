@@ -1,0 +1,12 @@
+Daniel,UGR/25123/14,Daniel@gmail.com,+251911234522Abel,Ugr/26123/15,Abel@gmail.com,+25191231231Samuel,UGR/25123/14,samuel@gmail.com,09123123
+Samuael,UGR/241242/14,asad@gmail.com,096543
+abel,UGR/25123/14,abel@gmail.com,09123123
+Mete,UGR/26127/14,mete@gmail.com,0923467674
+Matt,UGR/26243/14,matt@gmail.com,09435343
+Haile,UGR/25704/14,hailegiorgis@gmail.com,0911234567
+Habbte,UGR/25122/14,habte@gmail.com,091231223
+Jhon,UGR/1234/14,jhon@gmail.com,0912312332
+Daneil,UGR/12312323/14,danile@gmail.com,0912312323
+samuel,UGR/234234/14,samel@gmail.com,123124214
+sample,UGR/1/14,sample@gmail.com,123123123
+sample2,UGR/2/14,s2@gmail.com,12324124
